@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **thenabiev@gmail.com**
 
-<h3 align="left">Contact with me : thenabiev@gmail.com</h3>
+
 <p align="left">
 </p>
 
