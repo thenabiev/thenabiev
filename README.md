@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dev. Nabiyev</h1>
+<h1 align="center">Hi 👋, I'm Shahin Nabiyev</h1>
 <h3 align="center">A passionate frontend developer from Azerbaijan</h3>
 
 <img align="right" width="400" src="https://img.freepik.com/premium-vector/cute-ninja-cat-working-front-his-computer_332004-949.jpg?w=2000" />
