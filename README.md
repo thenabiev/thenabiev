@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Node JS ,Express JS and MongoDB**
 
-- 💬 Ask me about **React JS**
+- 💬 Ask me about **Cooperation**
 
 - 📫 How to reach me **thenabiev@gmail.com**
 
