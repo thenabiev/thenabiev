@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shahin Nabiyev</h1>
 <h3 align="center">A passionate frontend developer from Azerbaijan</h3>
 
-<img align="right" width="400" src="https://img.freepik.com/premium-vector/cute-ninja-cat-working-front-his-computer_332004-949.jpg?w=2000" />
+<img align="right" width="400" src="https://www.pngwing.com/en/free-png-nqctk" />
 
 - 🌱 I’m currently learning **Node JS ,Express JS and MongoDB**
 
