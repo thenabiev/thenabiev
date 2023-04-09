@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shahin Nabiyev</h1>
 <h3 align="center">A passionate frontend developer from Azerbaijan</h3>
 
-<img align="right" width="400" src="https://www.pngwing.com/en/free-png-nqctk" />
+<img align="right" width="400" src="https://freepngimg.com/save/19493-minecraft-creeper-png/1280x989" />
 
 - 🌱 I’m currently learning **Node JS ,Express JS and MongoDB**
 
