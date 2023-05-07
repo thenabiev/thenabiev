@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shahin Nabiyev</h1>
-<h3 align="center">A passionate frontend developer from Azerbaijan</h3>
+<h3 align="center">A passionate frontend developer from Azerbaijan.</h3>
 
 <img align="right" width="500" src="https://freepngimg.com/save/19493-minecraft-creeper-png/1280x989" />
 
